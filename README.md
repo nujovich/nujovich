@@ -8,6 +8,16 @@
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I am half-marathoner and also a thriatlon girl.
 
+## Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=nujovich)
+
+
+## Tech stack
+
+
+## Contact
+
 
 ## Badges Earned
 
