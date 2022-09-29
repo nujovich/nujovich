@@ -13,7 +13,10 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=nujovich)
 
 
-## Tech stack
+## Top languages
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nujovich)](https://github.com/nujovich/github-readme-stats)
+
 
 
 ## Contact
