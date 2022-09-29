@@ -19,14 +19,14 @@
 
 ## Contact
 
-You can find me on \[!\[Twitter\][1.2]\][1], or on \[!\[LinkedIn\][2.2]\][2].
-
-
-[1.2] : http://i.imgur.com/wWzX9uB.png
-[2.2] : https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png 
-
-[1] : https://twitter.com/NUjovich
-[2] : https://www.linkedin.com/in/nadiaujovich/
+<div id="badges">
+  <a href="your-linkedin-URL">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="your-twitter-URL">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white " alt="Twitter Badge"/>
+  </a>
+</div>
 
 ## Badges Earned
 
