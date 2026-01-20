@@ -6,7 +6,7 @@
 - 👯 I’m a BIG ASTRO fan
 - 📫 How to reach me: search for me on LinkedIn: [Nadia Ujovich](https://www.linkedin.com/in/nadiaujovich/)
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I am half-marathoner and also a thriatlon girl.
+- ⚡ Fun fact: I am marathoner and also a thriatlon girl.
 
 ## Stats
 
