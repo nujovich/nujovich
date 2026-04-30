@@ -1,6 +1,6 @@
 # Hi there 👋 I am Nadia
 
-Frontend developer based in Madrid. Thanks for stopping by!
+Frontend developer originally from Argentina, and now based in Mutxamel, Alicante. Thanks for stopping by!
 
 ## About me
 
