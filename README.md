@@ -14,7 +14,7 @@ Frontend developer based in Madrid. Thanks for stopping by!
 ## 🚀 Featured projects
 
 - **[mint](https://github.com/nujovich/mint)** — my most recent project.
-- **[WTM Madrid](https://github.com/wtm-madrid)** — contributor to the Women Techmakers Madrid community repository.
+- **[WTM Madrid](https://github.com/wtmgdgmadrid)** — contributor to the Women Techmakers Madrid community repository. Check out the site: [wtmgdgmadrid.github.io](https://wtmgdgmadrid.github.io/).
 - **[nadiaujovich.dev](https://nadiaujovich.dev)** — my personal portfolio, where you can find more about my work and experience.
 
 ## 🛠️ Tech Stack
